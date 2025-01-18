@@ -1,4 +1,4 @@
-📖 About the Project
+📖 Ai Interviewer
 The AI Interviewer dynamically presents a series of thoughtfully curated interview questions. Users can provide their responses in real-time, and the system captures and displays these responses in an interactive chat format. This tool is a great resource for interview preparation, helping individuals improve their confidence and readiness for job interviews.
 
 🔑 Key Features
