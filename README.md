@@ -25,6 +25,7 @@ Frontend Development: React.js
 State Management: React’s useState hook
 Styling: CSS
 JavaScript Logic: For dynamic interaction handling and state updates
+
 🎯 Key Learning Outcomes
 This project allowed me to:
 
